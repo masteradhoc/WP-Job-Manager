@@ -6,9 +6,9 @@
  * Version: 2.4.1
  * Author: Automattic
  * Author URI: https://wpjobmanager.com/
- * Requires at least: 6.4
- * Tested up to: 6.6
- * Requires PHP: 7.4
+ * Requires at least: 6.6
+ * Tested up to: 7.0
+ * Requires PHP: 8.2
  * Text Domain: wp-job-manager
  * Domain Path: /languages/
  * License: GPL2+
